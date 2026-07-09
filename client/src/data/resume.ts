@@ -5,8 +5,8 @@ export const resumeData: ResumeData = {
   location: "Gurgaon, Haryana, India",
   email: "amansharmadev.dev@gmail.com",
   phone: "8929717151",
-  website: "https://amansharmadev.dev/",
-  linkedIn: "https://www.linkedin.com/in/aman-sharma-5475901ba/",
+  website: "https://amansharmadev.dev",
+  linkedIn: "https://www.linkedin.com/in/aman-sharma-5475901ba",
   github: "https://github.com/amansharmadevdotdev",
   title: "Senior Software Engineer",
   totalExperience: "6.5+ years",
@@ -136,6 +136,20 @@ export const resumeData: ResumeData = {
       appStoreUrls: ["https://apps.apple.com/in/app/damensch/id1663216493"],
       playStoreUrls: ["https://play.google.com/store/apps/details?id=com.damensch.app"],
       webAppUrls: ["https://www.damensch.com/men/innerwear"]
+    },
+    {
+      title: "Tata Play",
+      description:
+        "Worked on both the React Native mobile app and React.js web platform for Tata Play — one of India's largest DTH and streaming services. Built and maintained features across user authentication & profile management, subscription flows, and content/streaming experiences for millions of end users. Integrated payment gateways for subscription management; ensured secure authentication and smooth onboarding across mobile and web.",
+      platform: "Mobile & Web",
+      techStack: ["React Native", "React.js", "TypeScript", "Redux Toolkit", "REST APIs", "Firebase"]
+    },
+    {
+      title: "Sony LIV",
+      description:
+        "Contributed to the React Native mobile app and React.js web platform for Sony LIV — a major OTT streaming platform with a large subscriber base. Developed features spanning streaming/content discovery, user authentication & profiles, and subscription & payment flows. Worked on performance optimisation for smooth video content rendering and seamless cross-platform user experience.",
+      platform: "Mobile & Web",
+      techStack: ["React Native", "React.js", "TypeScript", "Redux Toolkit", "REST APIs", "Firebase"]
     },
     {
       title: "OTO Dealer",
